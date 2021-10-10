@@ -1,4 +1,4 @@
 # hello-world
-saying hello to the world
+Saying hello to the world
 
-I'm exploring CS!
+I'm currently exploring CS, and so far the journey is very enjoyable!😄
